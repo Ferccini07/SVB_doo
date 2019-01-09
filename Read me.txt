@@ -1,0 +1,9 @@
+Izrada web stranice za tvrtku za računovodstvene usluge SVB d.o.o.
+Srpanj-Listopad 2018
+Izrada by: Borna Ferčec
+
+Tehnologije:
+HTML
+CSS
+JS
+W3-CSS
